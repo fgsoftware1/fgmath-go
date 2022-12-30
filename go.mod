@@ -1,3 +1,3 @@
-module fgmath
+module gomath
 
 go 1.19
