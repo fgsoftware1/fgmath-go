@@ -11,8 +11,8 @@ func main() {
 	deg := 30.0
 	rad := 0.523600
 	vec := math.New(1, 1)
-	vec1 := math.New(1, 2)
-	
+	vec1 := Vector2.New(1, 2)
+	vec3 := 
 	fmt.Println("\x1b[31m*****************")
 	fmt.Println("\x1b[31m*\x1b[35m    GOMATH     \x1b[31m*")
 	fmt.Println("\x1b[31m*****************")

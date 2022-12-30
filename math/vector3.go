@@ -1,4 +1,4 @@
-package math
+package Vector3
 
 type Vector3 struct {
 	X, Y, Z float64
