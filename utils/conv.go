@@ -1,5 +1,7 @@
 package conv
 
-type ToString interface {
-    ToString() string
+import "strconv"
+
+func FloatToString(f float64) string {
+	return strconv.FormatFloat(f, 'f', 6, 64)
 }
