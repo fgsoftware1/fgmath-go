@@ -1,8 +1,9 @@
 package math
 
 import (
-	"fgmath/constants"
 	"math"
+
+	"github.com/fgsoftware1/gomath/constants"
 )
 
 type Vector2 struct {
